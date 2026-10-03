@@ -1,2 +1,4 @@
-# Casio-uhren
-writed by HTML CSS 
+# Casio Watch Website
+writed by HTML5 CSS 
+resposive
+Flexbox / Grid
